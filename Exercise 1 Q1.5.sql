@@ -1,0 +1,1 @@
+SELECT TitleOfCourtesy +' '+ FirstName +' '+ LastName AS 'Title, First Name, Last Name', City FROM Employees
