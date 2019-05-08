@@ -1,1 +1,1 @@
-SELECT QuantityPerUnit AS 'Bottled Products' FROM Products WHERE QuantityPerUnit LIKE '%bottles%';
+SELECT  ProductName AS 'Product Name', QuantityPerUnit AS 'Bottled Products' FROM Products WHERE QuantityPerUnit LIKE '%bottles%';
