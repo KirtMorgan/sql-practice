@@ -1,1 +1,1 @@
-SELECT CustomerID, CompanyName, Address FROM Customers WHERE City = 'Paris' OR City = 'London'
+SELECT CustomerID, CompanyName, Address FROM Customers WHERE City = 'Paris' OR City = 'London';
